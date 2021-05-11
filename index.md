@@ -136,7 +136,7 @@ attempt to provide them.
 
 Participants should provide a network-connected computer with functioning 
 browser; a second screen is highly recommended. You will also need a microphone 
-and video camera, and a place to work where you feel comfortable talk and 
+and video camera, and a place to work where you feel comfortable talking and 
 actively participating in discussion and exercises.
 
 Please note that after this course is over, you will be asked to do
