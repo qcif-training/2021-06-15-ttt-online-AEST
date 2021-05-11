@@ -209,7 +209,6 @@ for more information.
 
 <hr/>
 
-<!--
 
 <div class="row">
   <div class="col-md-6">
@@ -260,7 +259,6 @@ for more information.
   </div>
 </div>
 
--->
 
 <!--
   ETHERPAD
