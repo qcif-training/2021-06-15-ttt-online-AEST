@@ -216,38 +216,46 @@ for more information.
     <h3>Day 1</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td> <td>Welcome </td> </tr>
-      <tr> <td>09:25</td> <td>Building Skill with Practice </td> </tr>
-      <tr> <td>10:25</td> <td>Expertise and Instruction </td> </tr>
-      <tr> <td>11:10</td> <td>Morning Break </td> </tr>
-      <tr> <td>11:25</td> <td>Memory and Cognitive Load </td> </tr>
-      <tr> <td>12:10</td> <td>Building Skill with Feedback </td> </tr>
-      <tr> <td>12:30</td> <td>Lunch </td> </tr>
-      <tr> <td>13:30</td> <td>Motivation and Demotivation </td> </tr>
-      <tr> <td>14:45</td> <td>Mindset </td> </tr>
-      <tr> <td>15:15</td> <td>Afternoon Break </td> </tr>
-      <tr> <td>15:30</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>16:40</td> <td>Wrap-up and Homework for Tomorrow </td> </tr>
-      <tr> <td>17:00</td> <td>Finish </td> </tr>
+      <tr> <td>09:30</td> <td>Building Skill with Practice </td> </tr>
+      <tr> <td>10:30</td> <td>Morning Break </td> </tr>
+      <tr> <td>10:45</td> <td>Expertise and Instruction </td> </tr>
+      <tr> <td>11:30</td> <td>Memory and Cognitive Load </td> </tr>
+      <tr> <td>12:15</td> <td>Building Skill with Feedback </td> </tr>
+      <tr> <td>12:35</td> <td>Finish </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 2</h3>
     <table class="table table-striped">
-      <tr> <td>09:00</td> <td>Welcome Back </td> </tr>
-      <tr> <td>09:10</td> <td>Live Coding Is a Skill </td> </tr>
-      <tr> <td>10:20</td> <td>Preparing to Teach </td> </tr>
-      <tr> <td>11:10</td> <td>Morning Break </td> </tr>
-      <tr> <td>11:25</td> <td>More Practice Live Coding </td> </tr>
-      <tr> <td>12:10</td> <td>Managing a Diverse Classroom </td> </tr>
-      <tr> <td>12:40</td> <td>Lunch </td> </tr>
-      <tr> <td>13:40</td> <td>Checkout Process </td> </tr>
-      <tr> <td>13:55</td> <td>The Carpentries: How We Operate </td> </tr>
-      <tr> <td>15:10</td> <td>Afternoon Coffee </td> </tr>
-      <tr> <td>15:25</td> <td>Workshop Introductions </td> </tr>
-      <tr> <td>16:05</td> <td>Putting it Together </td> </tr>
-      <tr> <td>16:25</td> <td>Wraping Up </td> </tr>
-      <tr> <td>16:40</td> <td>Post-Training Survey </td> </tr>
-      <tr> <td>16:55</td> <td>Finish </td> </tr>
+      <tr> <td>09:00</td> <td>Motivation and Demotivation </td> </tr>
+      <tr> <td>10:00</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
+      <tr> <td>10:40</td> <td>Morning Break </td> </tr>
+      <tr> <td>11:00</td> <td>Teaching Is a Skill </td> </tr>
+      <tr> <td>12:00</td> <td>Wrap-up and Homework for Tomorrow </td> </tr>
+      <tr> <td>12:30</td> <td>Finish </td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 3</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td>Checkout Process </td> </tr>
+      <tr> <td>09:00</td> <td>The Carpentries: How We Operate </td> </tr>
+      <tr> <td>10:15</td> <td>Morning Break </td> </tr>
+      <tr> <td>10:30</td> <td>Preparing to Teach </td> </tr>
+      <tr> <td>11:15</td> <td>Working With Your Team </td> </tr>
+      <tr> <td>12:30</td> <td>Finish </td> </tr>
+    </table>
+  </div>
+  <div class="col-md-6">
+    <h3>Day 4</h3>
+    <table class="table table-striped">
+      <tr> <td>09:00</td> <td>Live Coding Is a Skill </td> </tr>
+      <tr> <td>10:00</td> <td>More Practice Live Coding </td> </tr>
+      <tr> <td>10:45</td> <td>Morning Break </td> </tr>
+      <tr> <td>11:00</td> <td>Launches and Landings </td> </tr>
+      <tr> <td>11:40</td> <td>Putting It Together </td> </tr>
+      <tr> <td>12:00</td> <td>Wrapping Up </td> </tr>
+      <tr> <td>12:15</td> <td>Finish </td> </tr>
     </table>
   </div>
 </div>
