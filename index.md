@@ -231,8 +231,7 @@ for more information.
       <tr> <td>10:40</td> <td>Morning Break </td> </tr>
       <tr> <td>11:00</td> <td>Teaching Is a Skill </td> </tr>
       <tr> <td>12:00</td> <td>Wrap-up and Homework for Tomorrow </td> </tr>
-      <tr> <td>12:30</td> <td>Finish </td> </tr>
-      <tr> <td>&nbsp;</td> <td>&nbsp;</td> </tr>
+      <tr> <td rowspan=2>12:30</td> <td rowspan=2>Finish </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
